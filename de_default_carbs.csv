@@ -1,0 +1,39 @@
+Category;Food;Carbmultiplier
+Backware;Mischbrot;0,45
+Backware;Vollkornbrot grob ohne Sauerteig;0,40
+Backware;Vollkornbrot mit Sauerteig;0,38
+Backware;Semmel;0,53
+Backware;Toastbrot Weizen;0,48
+Beilagen;Kartoffel;0,15
+Beilagen;Kartoffelpüree;0,11
+Beilagen;Reis (gekocht);0,28
+Beilagen;Polenta (gekocht);0,22
+Beilagen;Couscous (gekocht);0,29
+Beilagen;Teigwaren (gekocht);0,28
+Beilagen;Vollkornteigwaren (gekocht);0,27
+Beilagen;Frittaten;0,22
+Beilagen;Backerbsen;0,50
+Beilagen;Grießnockerl;0,25
+Grundzutaten;Mehl griffig/glatt;0,70
+Grundzutaten;Vollkornmehl;0,60
+Grundzutaten;Grieß;0,69
+Grundzutaten;Haferflocken;0,60
+Grundzutaten;Zucker;1,00
+Milchprodukte;Kuhmilch;0,05
+Milchprodukte;Joghurt natur;0,05
+Milchprodukte;Buttermilch;0,04
+Brotaufstriche;Marmelade;0,55
+Obst;Apfel;0,14
+Obst;Banane mit Schale;0,13
+Obst;Orange mit Schale;0,06
+Obst;Weintrauben;0,15
+Obst;Heidelbeeren;0,06
+Obst;Erdbeeren;0,06
+Obst;Nektarine mit Stein;0,11
+Obst;Kiwi mit Schale;0,08
+Obst;Honigmelone ohne Schale;0,12
+Obst;Birne;0,12
+Obst;Mango;0,13
+Obst;Wassermelone ohne Schale;0,08
+Brotaufstriche;Marmelade (zuckerreduziert, 3:1);0,28
+Brotaufstriche;Honig;0,80
